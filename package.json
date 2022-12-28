@@ -1,0 +1,19 @@
+{
+  "name": "babymath-backend",
+  "version": "1.0.0",
+  "description": "This is the backend of the babymath application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "maths",
+    "application",
+    "mobile",
+    "cross-platform",
+    "quiz",
+    "challenge"
+  ],
+  "author": "Serge M.",
+  "license": "ISC"
+}
